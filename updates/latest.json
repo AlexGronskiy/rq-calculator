@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "notes": "Тестовая версия менеджера обновлений.",
+  "components": {
+    "app": {
+      "version": "0.1.0",
+      "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
+      "sha256": "6165d57642e8ca450294e648a4be01733ad61717f7b63181d28f906df4c0c54b",
+      "restart_required": true
+    },
+    "resources": {
+      "version": "0.1.0",
+      "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
+      "sha256": "482c358919927b0582572ab6b557ce9ce8904105a483dfe05fe4ec5009551e4c",
+      "restart_required": false
+    },
+    "database": {
+      "version": "0.1.0",
+      "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
+      "sha256": "974318b6407b7f36b2087dd2f81d61bb21972b16592f53a2765287a10f7c365d",
+      "restart_required": true
+    }
+  }
+}
