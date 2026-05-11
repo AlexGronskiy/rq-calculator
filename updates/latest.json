@@ -11,7 +11,7 @@
     "resources": {
       "version": "0.1.4",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
-      "sha256": "5bd6286b4cceebc155fa801fffbfc2bc7972b91ad08889b034c660dcefdca94c",
+      "sha256": "c0817168eccba26a066c1d195361b8a44c0cb147ab2b1bd0c39453d5990095ab",
       "restart_required": false
     },
     "database": {
