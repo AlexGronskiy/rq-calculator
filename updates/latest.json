@@ -1,17 +1,17 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.4",
   "notes": "Тестовая версия менеджера обновлений.",
   "components": {
     "app": {
-      "version": "0.1.0",
+      "version": "0.1.4",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "6165d57642e8ca450294e648a4be01733ad61717f7b63181d28f906df4c0c54b",
+      "sha256": "9abbb8d9b623f416150706c89a419e3943900a0a364ccda3eaf724d25087bbe7",
       "restart_required": true
     },
     "resources": {
-      "version": "0.1.0",
+      "version": "0.1.4",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
-      "sha256": "482c358919927b0582572ab6b557ce9ce8904105a483dfe05fe4ec5009551e4c",
+      "sha256": "5bd6286b4cceebc155fa801fffbfc2bc7972b91ad08889b034c660dcefdca94c",
       "restart_required": false
     },
     "database": {
