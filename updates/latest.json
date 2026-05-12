@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "",
   "components": {
     "app": {
-      "version": "0.1.4",
+      "version": "0.1.5",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "9abbb8d9b623f416150706c89a419e3943900a0a364ccda3eaf724d25087bbe7",
+      "sha256": "cfc13e5dc4a45eff7c1bee0912bdd85448a598ebe5b91064947d137f23408407",
       "restart_required": true
     },
     "resources": {
