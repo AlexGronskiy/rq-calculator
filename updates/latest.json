@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "notes": "",
   "components": {
     "app": {
-      "version": "0.1.7",
+      "version": "0.1.8",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "413bca7d4fd3a4157c75278d73efb7da15b62e50b5cb988556e60eb68870a37f",
+      "sha256": "45e4782e1416973cd3d57fed02c3a5c69dbdc628417fc189c39911954806bcef",
       "restart_required": true
     },
     "resources": {
@@ -17,7 +17,7 @@
     "database": {
       "version": "0.1.5",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "41a6e883f040c62221b2c99fac4c333d619037b36847fd9ae9c34f59e4b2c8e1",
+      "sha256": "b22ee1af45208697d956552d97d5ac9a4de1b9a2fe7c7e5be9eb8d3b761d882d",
 	  
       "restart_required": true
     }
