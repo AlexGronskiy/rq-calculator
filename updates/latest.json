@@ -1,23 +1,23 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "notes": "",
   "components": {
     "app": {
-      "version": "0.1.8",
+      "version": "0.1.9",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "45e4782e1416973cd3d57fed02c3a5c69dbdc628417fc189c39911954806bcef",
+      "sha256": "50bc7d8cd53b0d23c94683e9a4f72a20653a92b5431e421e26c2522160805d0a",
       "restart_required": true
     },
     "resources": {
-      "version": "0.1.7",
+      "version": "0.1.9",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
-      "sha256": "d76c984a43f1518c6b0016f8d08ba2b28b9a275aa9797cb9ca6633494199ae2e",
+      "sha256": "27712ea76abd3e1cd90c2b2b7d012cf7e101a1ba5341c1d2288b823409fba6b0",
       "restart_required": false
     },
     "database": {
-      "version": "0.1.8",
+      "version": "0.1.9",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "b22ee1af45208697d956552d97d5ac9a4de1b9a2fe7c7e5be9eb8d3b761d882d",
+      "sha256": "95cf99f95e5b740c2506559b42c663fb7bc40970210c6ace3bd2ee6e1045a425",
 	  
       "restart_required": true
     }
