@@ -15,9 +15,9 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.9",
+      "version": "0.1.10",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "95cf99f95e5b740c2506559b42c663fb7bc40970210c6ace3bd2ee6e1045a425",
+      "sha256": "fa3166082cce5aadbe5f597b02d9ada5d3cad803f77889f8b85bdcf081f9a298",
 	  
       "restart_required": true
     }
