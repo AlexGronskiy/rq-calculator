@@ -5,7 +5,7 @@
 	EN: English and Ukrainian localizations have been added. Please note that some translations may still be incomplete.",
   "components": {
     "app": {
-      "version": "0.1.12",
+      "version": "0.1.13",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
       "sha256": "7f030a2450022c3fc96176b48ee0813d2f01c7877e7c0ac79a7ff686d5f34ca6",
       "restart_required": true
@@ -17,7 +17,7 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.13",
+      "version": "0.1.14",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
       "sha256": "6b39b22200e9deddba45452d44b4a415143ef3e95cdf4045220485b7828471a4",
 	  
