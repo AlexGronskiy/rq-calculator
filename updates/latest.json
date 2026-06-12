@@ -1,9 +1,11 @@
 {
   "version": "0.1.12",
   "notes": [
-    "RU: Добавлены локализации Английская и Украинская. Переводы могут быть не полными.",
-    "UK: Додана Англійська та Українська локалізації. Переклад можуть бути не цільними.",
-    "EN: English and Ukrainian localizations have been added. Please note that some translations may still be incomplete."
+    "RU: Добавлены локализации Английская и Украинская. Переводы могут быть не полными. Локализация интерфейса будет на следующих выходных.",
+    "",
+    "UK: Додана Англійська та Українська локалізації. Переклад можуть бути не цільними. Локалызація Інтерфейсу буде на наступних вихідних.",
+    "",
+    "EN: English and Ukrainian localizations have been added. Please note that some translations may still be incomplete. The interface localization is planned for next weekend."
   ],
   "components": {
     "app": {
