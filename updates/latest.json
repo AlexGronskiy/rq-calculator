@@ -23,7 +23,7 @@
     "database": {
       "version": "0.1.14",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "6b39b22200e9dedbaa45452d44b4a415143ef3e95cdf4045220485b7828471a4",
+      "sha256": "6b39b22200e9deddba45452d44b4a415143ef3e95cdf4045220485b7828471a4",
       "restart_required": true
     }
   }
