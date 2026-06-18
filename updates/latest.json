@@ -1,11 +1,9 @@
 {
   "version": "0.1.12",
   "notes": [
-    "RU: Добавлены локализации Английская и Украинская. Переводы могут быть не полными. Локализация интерфейса будет на следующих выходных.",
-    " ",
-    "UK: Додана Англійська та Українська локалізації. Переклад можуть бути не цільними. Локалызація Інтерфейсу буде на наступних вихідних.",
-    " ",
-    "EN: English and Ukrainian localizations have been added. Please note that some translations may still be incomplete. The interface localization is planned for next weekend."
+    "RU: Внесены изменения Крестоносца (18.06.2026).",
+    "UK: Внесені зміни Крестоносця (18.06.2026).",
+    "EN: Crusader changes have been implemented (06.18.2026)."
   ],
   "components": {
     "app": {
@@ -21,9 +19,9 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.14",
+      "version": "0.1.15",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "6b39b22200e9deddba45452d44b4a415143ef3e95cdf4045220485b7828471a4",
+      "sha256": "876dff27a2ef1ce7b9110c39a2cb495a52be834c676339703b912f04868f2579",
       "restart_required": true
     }
   }
