@@ -1,5 +1,5 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "notes": [
     "RU: Внесены изменения Крестоносца (18.06.2026).",
     "UK: Внесені зміни Крестоносця (18.06.2026).",
@@ -7,21 +7,21 @@
   ],
   "components": {
     "app": {
-      "version": "0.1.15",
+      "version": "0.1.16",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "bac8d604a0b802d7795de64774b2026a62a6973ea0b631dc587a013d6d576a34",
+      "sha256": "503799bd536e33b5f52da27a654b7f59f36af9c39ee2e9ccc54e1b4c4f351cfe",
       "restart_required": true
     },
     "resources": {
-      "version": "0.1.15",
+      "version": "0.1.16",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
       "sha256": "27712ea76abd3e1cd90c2b2b7d012cf7e101a1ba5341c1d2288b823409fba6b0",
       "restart_required": false
     },
     "database": {
-      "version": "0.1.15",
+      "version": "0.1.16",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "c37176743c05cf6d0aa3c4f7fe1079e759070925b8a0fc95833a308b7f9c7e67",
+      "sha256": "2f61759c16a7fe3695749df8ff93a6e30240cddc4ba9097bb656dd85a8870865",
       "restart_required": true
     }
   }
