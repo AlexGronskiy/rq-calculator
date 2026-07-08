@@ -13,7 +13,7 @@
       "restart_required": true
     },
     "resources": {
-      "version": "0.1.16",
+      "version": "0.1.17",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/resources.zip",
       "sha256": "27712ea76abd3e1cd90c2b2b7d012cf7e101a1ba5341c1d2288b823409fba6b0",
       "restart_required": false
