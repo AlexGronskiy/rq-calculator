@@ -1,15 +1,15 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "notes": [
-    "RU: Внесены изменения - исправлены баги.",
-    "UK: Внесені зміни - виправлені баги.",
-    "EN: Changes have been made — bugs have been fixed."
+    "RU: Исправлены опечатки в БД, а так же при закрытии программы база данных тоже закрывается.",
+    "UK: Виправлено помилки в базі даних, а також база даних тепер коректно закривається при закритті програми.",
+    "EN: Typos in the database have been fixed, and the database now closes properly when the program is closed."
   ],
   "components": {
     "app": {
-      "version": "0.1.17",
+      "version": "0.1.18",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "f19426695af19cc70d93e472fd1250d3af8af7535deb5326d0bb8c8f33758abd",
+      "sha256": "97eafd681598dc33a929965381787157c6b711c63d8d91d6f23e48eb37351cb0",
       "restart_required": true
     },
     "resources": {
@@ -19,9 +19,9 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.17",
+      "version": "0.1.18",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "2f61759c16a7fe3695749df8ff93a6e30240cddc4ba9097bb656dd85a8870865",
+      "sha256": "8688703c71d777daee3c6ea6ab83aa97e70825dcf46bc54c3a611708f7cbdfbd",
       "restart_required": true
     }
   }
