@@ -1,9 +1,9 @@
 {
   "version": "0.1.19",
   "notes": [
-    "RU: Добавлено новое меню - Стоимость карт.",
-    "UK: Додано нове меню — Вартість карт.",
-    "EN: Added a new menu — Card Cost."
+    "RU: Исправлены баги описаний.",
+    "UK: Виправлені баги в описі.",
+    "EN: Fixed description bugs."
   ],
   "components": {
     "app": {
