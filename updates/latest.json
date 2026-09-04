@@ -1,15 +1,15 @@
 {
   "version": "0.1.19",
   "notes": [
-    "RU: Исправлены баги описаний.",
-    "UK: Виправлені баги в описі.",
-    "EN: Fixed description bugs."
+    "RU: Исправлены баг подсчёта PvP урона.",
+    "UK: Виправлено баг підрахунку PvP-шкоди.",
+    "EN: Fixed a PvP damage calculation bug."
   ],
   "components": {
     "app": {
-      "version": "0.1.20",
+      "version": "0.1.21",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "0272a75c1aa37321b5904e5f1deb0e81c0b514c920fd4a4aba3b122a8559c053",
+      "sha256": "088d05ae8540a9c7a312e332b6fa0b989ac8ad83e31e46bc48e232b967b19f90",
       "restart_required": true
     },
     "resources": {
