@@ -1,15 +1,15 @@
 {
   "version": "0.1.19",
   "notes": [
-    "RU: Исправлены баг подсчёта Урона элементом у двуручного оружия.",
-    "UK: Виправлено баг підрахунку шкоди елементом у дворучної зброї.",
-    "EN: Fixed an element damage calculation bug for two-handed weapons."
+    "RU: Исправлена формула начисления защиты/атаки от уровня улучшения.",
+    "UK: Виправлено формулу нарахування захисту/атаки від рівня покращення.",
+    "EN: Fixed the formula for calculating defense/attack from the upgrade level."
   ],
   "components": {
     "app": {
-      "version": "0.1.22",
+      "version": "0.1.23",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "05a90af8eaeecbdf43688bb2a121b179241a29051218438b30ce97449674afe4",
+      "sha256": "8f6f4e034b5d30315b089ebbf8094c168738401b3c8cdbd348c31ce875c0d96e",
       "restart_required": true
     },
     "resources": {
@@ -19,9 +19,9 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.22",
+      "version": "0.1.23",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "2d89d13999a69f3c37741d39ca898b7f001c9853954e87630653378a861fc1c4",
+      "sha256": "d67ddf1e27b3ed16dfb8cf825b94f42a99c80bbbb37fb284861f29101684ede9",
       "restart_required": true
     }
   }
