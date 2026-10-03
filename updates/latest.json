@@ -1,15 +1,15 @@
 {
   "version": "0.1.19",
   "notes": [
-    "RU: Исправлена формула начисления защиты/атаки от уровня улучшения.",
-    "UK: Виправлено формулу нарахування захисту/атаки від рівня покращення.",
-    "EN: Fixed the formula for calculating defense/attack from the upgrade level."
+    "RU: Приехала оптимизация;).",
+    "UK: Приїхала оптимізація ;).",
+    "EN: Optimization has arrived ;)."
   ],
   "components": {
     "app": {
       "version": "0.1.23",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/app.zip",
-      "sha256": "8f6f4e034b5d30315b089ebbf8094c168738401b3c8cdbd348c31ce875c0d96e",
+      "sha256": "5380a53cb48191f02b0ca5ce18a22e1220bfdd0ec43f22691f6dc51e2cc2d481",
       "restart_required": true
     },
     "resources": {
