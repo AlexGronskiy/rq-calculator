@@ -1,9 +1,9 @@
 {
   "version": "0.1.19",
   "notes": [
-    "RU: Приехала оптимизация;).",
-    "UK: Приїхала оптимізація ;).",
-    "EN: Optimization has arrived ;)."
+    "RU: Фикс в БД.",
+    "UK: Фікс у БД.",
+    "EN: Database fix."
   ],
   "components": {
     "app": {
@@ -19,9 +19,9 @@
       "restart_required": false
     },
     "database": {
-      "version": "0.1.24",
+      "version": "0.1.25",
       "url": "https://github.com/AlexGronskiy/rq-calculator/releases/download/v0.1.1/rqdata.sqlite",
-      "sha256": "a200cf6410f3dbcc8890fd865c567e6e57c1fec4c8edebb2a05852af15b2f6a4",
+      "sha256": "328774abac9949f2d084bf2d29d31cdf7b2c2f3d82d815785aecde1cdb518717",
       "restart_required": true
     }
   }
